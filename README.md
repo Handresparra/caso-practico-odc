@@ -1,6 +1,6 @@
 # Caso práctico · Del dato a la toma de decisiones
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/caso-practico-odc/blob/main/notebooks/caso_practico.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Handresparra/caso-practico-odc/blob/main/notebooks/caso_practico.ipynb)
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.es)
 
 Caso práctico del Objeto Digital de Conocimiento (ODC) **«Del dato a la toma de decisiones: guía interactiva de diseño estadístico para datos estructurados y no estructurados»**, Especialización en Analítica y Ciencia de Datos, Universidad de Cundinamarca.
@@ -72,7 +72,7 @@ Los datos son **sintéticos**: se generaron con `scripts/generar_datos.py` (semi
 
 ## Cómo citar
 
-Parra Enciso, H. A. (2026). *Caso práctico · Del dato a la toma de decisiones* [Cuaderno de Jupyter y conjunto de datos]. GitHub. https://github.com/USUARIO/caso-practico-odc
+Parra Enciso, H. A. (2026). *Caso práctico · Del dato a la toma de decisiones* [Cuaderno de Jupyter y conjunto de datos]. GitHub. https://github.com/Handresparra/caso-practico-odc
 
 ## Licencia
 
