@@ -1,0 +1,32 @@
+repuesto_ref,tipo_repuesto,marca_compatible,descripcion,stock_promedio,costo_unitario
+PAN-01,Pantalla,Samsung,Pantalla AMOLED Galaxy A54,1,290000
+PAN-02,Pantalla,Samsung,Pantalla AMOLED Galaxy A34,2,155000
+PAN-03,Pantalla,Xiaomi,Pantalla LCD Redmi Note 12,0,125000
+PAN-04,Pantalla,Xiaomi,Pantalla LCD Redmi 12C,3,247000
+PAN-05,Pantalla,Otras marcas,Pantalla LCD Motorola G54,1,193000
+PAN-06,Pantalla,Samsung,Pantalla LCD Galaxy A14,11,213000
+PAN-07,Pantalla,Samsung,Pantalla LCD Galaxy A04,14,135000
+PAN-08,Pantalla,Xiaomi,Pantalla LCD Redmi A2,12,194000
+PAN-09,Pantalla,Otras marcas,Pantalla LCD Motorola E13,9,248000
+PAN-10,Pantalla,Otras marcas,Pantalla LCD Tecno Spark 10,16,190000
+BAT-01,Batería,Samsung,Batería Samsung tipo 1,15,99000
+BAT-02,Batería,Samsung,Batería Samsung tipo 2,8,96000
+BAT-03,Batería,Xiaomi,Batería Xiaomi tipo 3,18,90000
+BAT-04,Batería,Xiaomi,Batería Xiaomi tipo 4,10,103000
+BAT-05,Batería,Xiaomi,Batería Xiaomi tipo 5,12,91000
+BAT-06,Batería,Otras marcas,Batería Otras marcas tipo 6,10,56000
+BAT-07,Batería,Otras marcas,Batería Otras marcas tipo 7,4,100000
+PUE-01,Puerto de carga,Samsung,Puerto de carga USB-C Samsung tipo 1,17,47000
+PUE-02,Puerto de carga,Xiaomi,Puerto de carga USB-C Xiaomi tipo 2,13,28000
+PUE-03,Puerto de carga,Xiaomi,Puerto de carga USB-C Xiaomi tipo 3,5,35000
+PUE-04,Puerto de carga,Otras marcas,Puerto de carga USB-C Otras marcas tipo 4,19,30000
+PUE-05,Puerto de carga,Otras marcas,Puerto de carga USB-C Otras marcas tipo 5,7,58000
+CAM-01,Cámara,Samsung,Módulo de cámara Samsung tipo 1,6,125000
+CAM-02,Cámara,Xiaomi,Módulo de cámara Xiaomi tipo 2,9,142000
+CAM-03,Cámara,Otras marcas,Módulo de cámara Otras marcas tipo 3,3,85000
+ALT-01,Altavoz,Samsung,Altavoz Samsung tipo 1,13,35000
+ALT-02,Altavoz,Xiaomi,Altavoz Xiaomi tipo 2,8,35000
+ALT-03,Altavoz,Otras marcas,Altavoz Otras marcas tipo 3,20,38000
+OTR-01,Otros,Samsung,Botón o flex Samsung tipo 1,18,17000
+OTR-02,Otros,Xiaomi,Botón o flex Xiaomi tipo 2,14,27000
+OTR-03,Otros,Otras marcas,Botón o flex Otras marcas tipo 3,15,31000
